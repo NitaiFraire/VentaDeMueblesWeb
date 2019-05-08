@@ -100,3 +100,15 @@ h2{
     background-color: #7aa104!important;
     border-color: #7aa104!important;
 }
+
+/* Footer */
+
+.footer{
+
+    border-top: 1px solid #e1e1e1;
+}
+
+.footer-menu .nav-link{
+
+    color: #666!important;
+}
